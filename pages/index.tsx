@@ -105,7 +105,7 @@ export default function Home() {
 
     <div className="py-10" >
       <Divider className="dark:bg-white" />
-      <h5 className="text-center font-burtons pt-10 text-teal-600 dark:text-teal-600  dark:text-white" > Front-End / Web Developer/ Designer  </h5>
+      <h5 className="text-center font-burtons pt-10 text-teal-600   dark:text-white" > Front-End / Web Developer/ Designer  </h5>
         <h2 className="text-center py-5  dark:text-white" > Md Ariful Hasan </h2>
         <p className="py-2 text-center dark:text-white" > Below,I'm Providing my<span className="from text-teal-600" > Email,Linkedin </span> button.Therefore,You can contact with me anytime  </p>
     </div>
@@ -113,7 +113,7 @@ export default function Home() {
           <a className="bg-gradient-to-r bg-cyan-500 text-white px-4 py-2 rounded-md ml-8 " href="mailto:mdarifulhasan371@gmail.com">Email </a> 
           </div>
 
-    <div className="flex justify-center text-xl py-10 gap-16 dark:text-white dark:text-white" >
+    <div className="flex justify-center text-xl py-10 gap-16  dark:text-white" >
     <a href="https://www.facebook.com/mdariful.hasan.10690/"> <BsFacebook /> </a> 
        <a href="https://github.com/arifkhan676">  <AiFillGithub /> </a>
        <a href="https://www.linkedin.com/in/hassanul-arif-0899181aa/">  <AiFillLinkedin />  </a>
