@@ -2,7 +2,7 @@ import React from 'react'
 import img2 from "./code.png"
 import Image from "next/image"
 
-const Card = (props) => {
+function Card (props:any) {
   return (
     <div className="text-center shadow-2xl p-10 rounded-2xl my-10 dark:bg-white">
     <Image src={props.src} width={100} height={100} style={{margin:"auto"}}   alt="" />
