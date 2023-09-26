@@ -34,7 +34,7 @@ export default function Home() {
             <h1 className="text-xl font-burtons dark:text-white" >Md Ariful Hasan</h1>
             <ul className="flex items-center" >
               <li> <BsFillMoonStarsFill className="cursor-pointer text-2xl  dark:text-white" onClick={() => setdarkMode(!darkMode)} /> </li>
-              <li> <a className="bg-gradient-to-r bg-cyan-500 text-white px-4 py-2 rounded-md ml-8 " href="https://drive.google.com/file/d/1uE1UpZcZIR1zZrKnIFDmRqj2ILNHaGlc/view?usp=sharing">Resume</a> </li>
+              <li> <a className="bg-gradient-to-r bg-cyan-500 text-white px-4 py-2 rounded-md ml-8 " href="https://drive.google.com/file/d/15ZtGBLSkt8muvSy5jqk6pph4yIevj0fo/view?usp=sharing">Resume</a> </li>
             </ul>
           </nav>
           <div className="py-10 text-center" >
